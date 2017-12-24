@@ -21,5 +21,10 @@ namespace WindowsFormsAE
                 axMapControl.LoadMxFile(fileName);
             }
         }
+
+        public void OpenShapefile()
+        {
+            int i = 1;
+        }
     }
 }
