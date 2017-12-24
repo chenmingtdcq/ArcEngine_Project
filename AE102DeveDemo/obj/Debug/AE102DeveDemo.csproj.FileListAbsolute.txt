@@ -1,0 +1,13 @@
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\bin\Debug\AE102DeveDemo.exe.config
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\bin\Debug\AE102DeveDemo.exe
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\bin\Debug\AE102DeveDemo.pdb
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\AE102DeveDemo.csprojResolveAssemblyReference.cache
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\MainWindow.baml
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\MainWindow.g.cs
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\App.g.cs
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\AE102DeveDemo_MarkupCompile.cache
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\AE102DeveDemo.g.resources
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\AE102DeveDemo.Properties.Resources.resources
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\AE102DeveDemo.csproj.GenerateResource.Cache
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\AE102DeveDemo.exe
+F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\AE102DeveDemo.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AE102DeveDemo", "AE102DeveDemo\AE102DeveDemo.csproj", "{B124F3D6-4363-4F46-9875-B89BAE905724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAE", "WindowsFormsAE\WindowsFormsAE.csproj", "{5CC80DF8-70F0-4AA1-8A3A-1B137638FA53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QIDemo", "QIDemo\QIDemo.csproj", "{4FC1CCC0-E009-44BC-A826-294E9C7904DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B124F3D6-4363-4F46-9875-B89BAE905724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B124F3D6-4363-4F46-9875-B89BAE905724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B124F3D6-4363-4F46-9875-B89BAE905724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B124F3D6-4363-4F46-9875-B89BAE905724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC80DF8-70F0-4AA1-8A3A-1B137638FA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC80DF8-70F0-4AA1-8A3A-1B137638FA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC80DF8-70F0-4AA1-8A3A-1B137638FA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC80DF8-70F0-4AA1-8A3A-1B137638FA53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC1CCC0-E009-44BC-A826-294E9C7904DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC1CCC0-E009-44BC-A826-294E9C7904DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC1CCC0-E009-44BC-A826-294E9C7904DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC1CCC0-E009-44BC-A826-294E9C7904DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

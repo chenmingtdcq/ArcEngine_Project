@@ -1,0 +1,5 @@
+F:\program\practice\AE102DeveDemo\QIDemo\bin\Debug\QIDemo.exe.config
+F:\program\practice\AE102DeveDemo\QIDemo\bin\Debug\QIDemo.exe
+F:\program\practice\AE102DeveDemo\QIDemo\bin\Debug\QIDemo.pdb
+F:\program\practice\AE102DeveDemo\QIDemo\obj\Debug\QIDemo.exe
+F:\program\practice\AE102DeveDemo\QIDemo\obj\Debug\QIDemo.pdb

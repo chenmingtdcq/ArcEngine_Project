@@ -1,0 +1,9 @@
+F:\program\practice\AE102DeveDemo\WindowsFormsAE\bin\Debug\WindowsFormsAE.exe.config
+F:\program\practice\AE102DeveDemo\WindowsFormsAE\bin\Debug\WindowsFormsAE.exe
+F:\program\practice\AE102DeveDemo\WindowsFormsAE\bin\Debug\WindowsFormsAE.pdb
+F:\program\practice\AE102DeveDemo\WindowsFormsAE\obj\Debug\WindowsFormsAE.csprojResolveAssemblyReference.cache
+F:\program\practice\AE102DeveDemo\WindowsFormsAE\obj\Debug\WindowsFormsAE.Form1.resources
+F:\program\practice\AE102DeveDemo\WindowsFormsAE\obj\Debug\WindowsFormsAE.Properties.Resources.resources
+F:\program\practice\AE102DeveDemo\WindowsFormsAE\obj\Debug\WindowsFormsAE.csproj.GenerateResource.Cache
+F:\program\practice\AE102DeveDemo\WindowsFormsAE\obj\Debug\WindowsFormsAE.exe
+F:\program\practice\AE102DeveDemo\WindowsFormsAE\obj\Debug\WindowsFormsAE.pdb
