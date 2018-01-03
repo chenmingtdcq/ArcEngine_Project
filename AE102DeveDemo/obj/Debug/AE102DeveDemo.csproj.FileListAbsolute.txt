@@ -11,3 +11,16 @@ F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\AE102DeveDemo.Properti
 F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\AE102DeveDemo.csproj.GenerateResource.Cache
 F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\AE102DeveDemo.exe
 F:\program\practice\AE102DeveDemo\AE102DeveDemo\obj\Debug\AE102DeveDemo.pdb
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\bin\Debug\AE102DeveDemo.exe.config
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\bin\Debug\AE102DeveDemo.exe
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\bin\Debug\AE102DeveDemo.pdb
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\obj\Debug\AE102DeveDemo.csprojResolveAssemblyReference.cache
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\obj\Debug\MainWindow.baml
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\obj\Debug\MainWindow.g.cs
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\obj\Debug\App.g.cs
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\obj\Debug\AE102DeveDemo_MarkupCompile.cache
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\obj\Debug\AE102DeveDemo.g.resources
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\obj\Debug\AE102DeveDemo.Properties.Resources.resources
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\obj\Debug\AE102DeveDemo.csproj.GenerateResource.Cache
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\obj\Debug\AE102DeveDemo.exe
+E:\ArcEngineLearning\Code\ArcEngine_Project\AE102DeveDemo\obj\Debug\AE102DeveDemo.pdb

@@ -3,3 +3,9 @@ F:\program\practice\AE102DeveDemo\QIDemo\bin\Debug\QIDemo.exe
 F:\program\practice\AE102DeveDemo\QIDemo\bin\Debug\QIDemo.pdb
 F:\program\practice\AE102DeveDemo\QIDemo\obj\Debug\QIDemo.exe
 F:\program\practice\AE102DeveDemo\QIDemo\obj\Debug\QIDemo.pdb
+E:\ArcEngineLearning\Code\ArcEngine_Project\QIDemo\bin\Debug\QIDemo.exe.config
+E:\ArcEngineLearning\Code\ArcEngine_Project\QIDemo\bin\Debug\QIDemo.exe
+E:\ArcEngineLearning\Code\ArcEngine_Project\QIDemo\bin\Debug\QIDemo.pdb
+E:\ArcEngineLearning\Code\ArcEngine_Project\QIDemo\obj\Debug\QIDemo.csprojResolveAssemblyReference.cache
+E:\ArcEngineLearning\Code\ArcEngine_Project\QIDemo\obj\Debug\QIDemo.exe
+E:\ArcEngineLearning\Code\ArcEngine_Project\QIDemo\obj\Debug\QIDemo.pdb
